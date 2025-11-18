@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python-headless
+torch
+torchvision
+torchaudio
+moviepy
+imageio
+imageio-ffmpeg
+pillow
+networkx
+nest_asyncio
+torchsummary
